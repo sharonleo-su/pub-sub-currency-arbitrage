@@ -1,9 +1,4 @@
 """
-CPSC 5520, Seattle University
-This is free and unencumbered software released into the public domain.
-:Authors: Kevin Lundeen
-:Version: f19-02
-
 This module is the subscriber-side functions for marshalling message components analogous to the publisher-side
 functions supplied by Forex Provider in fxp_bytes.py.
 """

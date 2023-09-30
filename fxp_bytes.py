@@ -1,6 +1,5 @@
 """
 Forex Provider
-(c) all rights reserved
 This module contains useful marshalling functions for manipulating Forex Provider
 packet contents.
 """

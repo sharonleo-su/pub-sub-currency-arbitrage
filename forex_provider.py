@@ -1,6 +1,5 @@
 """
 Forex Provider
-(c) all rights reserved
 This module implements a staging version the Forex Provider price feed on
 localhost.
 """
