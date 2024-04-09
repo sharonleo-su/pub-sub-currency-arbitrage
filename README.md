@@ -10,13 +10,13 @@ This project is a Python implementation for detecting arbitrage opportunities in
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/forex-arbitrage.git
+   git clone https://github.com/sharonleo-su/pub-sub-currency-arbitrage.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd forex-arbitrage
+   cd pub-sub-currency-arbitrage
    ```
 
 3. Install dependencies (ensure you have Python and pip installed):
